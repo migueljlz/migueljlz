@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @migueljlz
+- 👋 Hi, I’m @migueljlz. Full Stack Developer / Junior React Developer ⚛️
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning a lof of languages
-- 📫 This is my only way to contact me  
+- 🌱 Currently studying -> React.js
+- ✅ Available for work and collaborations 👍
+- 📫 For bussiness inquiries: migueljaramillolozada@gmail.com
 
 <!---
 migueljlz/migueljlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
